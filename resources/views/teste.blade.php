@@ -7,7 +7,7 @@
         <title>Document</title>
     </head>
     <body>
-        <h1>teste</h1>
-        <a href="teste">Teste</a>
+        <h1>deu certo</h1>
+        <a href="voltar">voltar</a>
     </body>
 </html>
